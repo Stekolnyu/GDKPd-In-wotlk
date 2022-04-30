@@ -1,0 +1,28 @@
+## Interface: 30330
+## Title: GDKPd
+## Notes: Simplifies GDKP bidding processes
+## Notes-ruRU: Упрощает процесс торгов в GDKP
+## Author: stolenlegacy
+## SavedVariables: GDKPd_DB, GDKPd_PotData, GDKPd_BalanceData
+## OptionalDeps: LibStub, Ace3, CallbackHandler-1.0
+#@no-lib-strip@
+## X-Curse-Packaged-Version: 1.4.2
+## X-Curse-Project-Name: GDKPd
+## X-Curse-Project-ID: gdkpd
+## X-Curse-Repository-ID: wow/gdkpd/mainline
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+Libs\AceDB-3.0\AceDB-3.0.xml
+Libs\AceDBOptions-3.0\AceDBOptions-3.0.xml
+Libs\AceGUI-3.0\AceGUI-3.0.xml
+Libs\AceConfig-3.0\AceConfig-3.0.xml
+Libs\AceLocale-3.0\AceLocale-3.0.xml
+Libs\LibDBIcon-1.0\lib.xml
+
+#@end-no-lib-strip@
+locales\enUS.localization.lua
+locales\ruRU.localization.lua
+# table handler
+TempTables.lua
+GDKPd.lua
