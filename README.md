@@ -47,10 +47,10 @@ Saved pots
 
 Balance window
 
-and many more
-
-
-
+and many more 
+  
+  
+  
 Slash command usage:
  
 /gdkpd auction <itemlink> - Auction item
