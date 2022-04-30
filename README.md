@@ -47,27 +47,20 @@ Saved pots
 
 Balance window
 
-
 and many more
 
 
 Slash command usage:
-
-
+ 
 /gdkpd auction <itemlink> - Auction item
-  
   
 /gdkpd ver - Displays currently installed version
   
-  
 /gdkpd vercheck - Show the version check window
-  
   
 /gdkpd history - Show the history window
   
-  
 /gdkpd wipe - Wipe the history of pots (displays confirmation dialog)
-  
   
 /gdkpd <anything other than the above> - Open configuration dialog
   
